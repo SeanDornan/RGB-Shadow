@@ -1,7 +1,5 @@
 # RGB-Shadow
 
-Final showcase AGP - Coursework Part 2 | The demo demonstrates a shadow map and multiple lighting shader, which have been learned from learnOpenGL.com
-
 External Libraries:
 
 C++ -> General -> Additional Include Directories
