@@ -1,0 +1,30 @@
+﻿  rt3dObjLoader.cpp
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\rt3dobjloader.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\rt3dobjloader.cpp(134): warning C4101: 'z': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\rt3dobjloader.cpp(134): warning C4101: 'y': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\rt3dobjloader.cpp(134): warning C4101: 'x': unreferenced local variable
+  rt3d.cpp
+  md2model.cpp
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(176): warning C4101: 'v': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(175): warning C4101: 's': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(176): warning C4101: 'norm': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(175): warning C4101: 't': unreferenced local variable
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.cpp(338): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(286): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(287): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(289): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(290): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(291): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(292): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(293): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\seanl\desktop\agp group project\b00298673 - agp individual\agpcw2\rgb&shadows\agp-test\main.cpp(294): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  AGP-Test.vcxproj -> C:\Users\seanl\Desktop\AGP Group Project\B00298673 - AGP Individual\AGPCW2\RGB&Shadows\Debug\AGP-Test.exe
+  AGP-Test.vcxproj -> C:\Users\seanl\Desktop\AGP Group Project\B00298673 - AGP Individual\AGPCW2\RGB&Shadows\Debug\AGP-Test.pdb (Partial PDB)
